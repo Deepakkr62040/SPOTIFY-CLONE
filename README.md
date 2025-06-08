@@ -1,0 +1,2 @@
+# SPOTIFY-CLONE
+Mini project
